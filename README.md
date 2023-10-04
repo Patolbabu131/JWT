@@ -5,8 +5,9 @@
 # Before authentication Jqt token 
 ![271924667-572524a6-731e-4182-ba1f-792d7a70fefa](https://github.com/Patolbabu131/JWT/assets/97328289/11047e9b-d55a-4f78-824f-66bf41495953)
 
-# Generate t![271924936-38dad5c7-7b41-4c2e-ad71-035ce1e982c3](https://github.com/Patolbabu131/JWT/assets/97328289/14fe7e27-8304-4929-b19e-ca57b6346325)
-oken
+# Generate token
+![271924936-38dad5c7-7b41-4c2e-ad71-035ce1e982c3](https://github.com/Patolbabu131/JWT/assets/97328289/14fe7e27-8304-4929-b19e-ca57b6346325)
+
 ![271925142-2c6bbc38-98ee-47a4-b3fc-00158bafb989](https://github.com/Patolbabu131/JWT/assets/97328289/3a9b93c6-c325-45ee-b39b-00002a7ebc8d)
 
 # Authentication using generated token
